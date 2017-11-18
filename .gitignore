@@ -1,3 +1,5 @@
 # Ipython checkpoints
 .ipynb_checkpoints
 *.DS_Store
+# Lecture notes
+lecture notes
